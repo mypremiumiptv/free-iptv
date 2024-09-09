@@ -1,6 +1,6 @@
 # MYPREMIUMIPTV
 
-Welcome to **MYPREMIUMIPTV**, your destination for premium IPTV services. 
+Welcome to **MYPREMIUMIPTV**, your destination for premium IPTV services.
 
 At MYPREMIUMIPTV, we provide access to over **20,000 high-quality channels**, along with the latest movies, TV series, and on-demand content. Our service ensures seamless, high-definition streaming at competitive prices, catering to all your entertainment needs.
 
@@ -18,9 +18,14 @@ At MYPREMIUMIPTV, we provide access to over **20,000 high-quality channels**, al
 - **Global Reach**: Channels from multiple countries, ensuring diverse content for all audiences.
 
 ## How to Get Started:
-Visit our official website at [MYPREMIUMIPTV.com](https://mypremiumiptv.com) for more information and subscription details. 
+Visit our official website at [MYPREMIUMIPTV.com](https://mypremiumiptv.com) for more information and subscription details.
 
-For inquiries or support, please contact our team at [support@mypremiumiptv.com](mailto:support@mypremiumiptv.com).
+## Contact Us:
+- **Email**: [contact@mypremiumiptv.com](mailto:contact@mypremiumiptv.com)
+- **WhatsApp**: [Click to Chat](https://api.whatsapp.com/send?phone=447365619724)
+- **Telegram**: [mypremiumiptv](https://t.me/mypremiumiptv)
+
+For any inquiries or support, feel free to reach out through any of the above channels.
 
 ---
 
